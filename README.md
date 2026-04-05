@@ -22,7 +22,6 @@
 - [Project Structure](#-project-structure)
 - [How to Run](#-how-to-run)
 - [Actionable Recommendations](#-actionable-recommendations)
-- [Author](#-author)
 
 ---
 
